@@ -1,0 +1,6 @@
+# Gem Skeletons
+
+- bundle-gem...rails-plugin-new:
+  - https://github.com/meganemura/gem_skeletons/compare/bundle-gem...rails-plugin-new
+- rails-plugin-new...bundle-gem
+  - https://github.com/meganemura/gem_skeletons/compare/rails-plugin-new...bundle-gem
