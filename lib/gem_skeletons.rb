@@ -1,0 +1,3 @@
+module GemSkeletons
+  # Your code goes here...
+end
